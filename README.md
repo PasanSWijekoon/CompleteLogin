@@ -70,7 +70,7 @@
         reset link via email using PHPMailer.</p>
     <h4><code>updatepassword.php</code></h4>
     <p>Updates the user's password in the database after a successful password reset.</p>
-    <h4><code>session_destroy.php</code></h4>
+    <h4><code>logout.php</code></h4>
     <p>Destroys the session when a user logs out.</p>
     <h3>Usage</h3>
     <ol>
