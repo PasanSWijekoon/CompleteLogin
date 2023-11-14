@@ -2,7 +2,7 @@
     <h2>Overview</h2>
     <p>This documentation provides an overview and explanation of the PHP code snippets that handle user authentication
         and Google Sign-In integration. The provided code allows users to sign in using their Google accounts and
-        updates or inserts user data based on the response from Google Sign-In.</p>
+        updates or inserts user data based on the response from Google Sign-In And Also reset Password</p>
     <h2>Table of Contents</h2>
     <ol>
         <li><a href="#requirements" target="_new">Requirements</a></li>
