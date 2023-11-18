@@ -21,7 +21,7 @@
         <li><a href="#security-considerations" target="_new">Security Considerations</a></li>
         <li><a href="#troubleshooting" target="_new">Troubleshooting</a></li>
         <li><a href="#contributing" target="_new">Contributing</a></li>
-        <li><a href="#license" target="_new">License</a></li>
+       
     </ol>
     <h2>Requirements</h2>
     <ul>
