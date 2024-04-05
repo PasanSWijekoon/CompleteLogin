@@ -3,7 +3,7 @@ require './includes/config.php';
 
 session_start();
 
-// Retrieve JSON from POST body 
+/// Retrieve JSON from POST body 
 $jsonStr = file_get_contents('php://input'); 
 $jsonObj = json_decode($jsonStr); 
  
